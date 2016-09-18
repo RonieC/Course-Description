@@ -7,9 +7,13 @@ version 0.14.0.
 
 clone this project and install: 
 -[1] $ npm install 
+
 -[2] $ bower install 
+
 -[3] $ npm install jsonfile 
+
 -[4] cd <nameProject>/client 
+
 -[5] $ grunt serve 
 
 ## Software Required
