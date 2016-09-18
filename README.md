@@ -14,7 +14,7 @@ clone this project and install:
 
 [3] $ npm install jsonfile 
 
-[4] cd <nameProject>/client 
+[4] cd nameProject/client 
 
 [5] $ grunt serve 
 
