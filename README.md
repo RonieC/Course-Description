@@ -7,6 +7,7 @@ version 0.14.0.
 ##Run Project
 
 clone this project and install: 
+
 [1] $ npm install 
 
 [2] $ bower install 
@@ -43,7 +44,6 @@ clone this project and install:
 [2] [nodejs v0.10.28-x64] (https://nodejs.org/download/release/v0.10.28/x64/node-v0.10.28-x64.msi)
 
 [3] [java 1.7] (http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html)
-	"Java SE Development Kit 7u79" > "Accept License Agreements" > "jdk-7u79-windows-x64.exe"
 
 ## Build & development
 
