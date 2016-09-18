@@ -1,16 +1,16 @@
-# course-description
+# Course-description
 
 This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
 version 0.14.0.
 
 ##Run Project
 
-clone this project and install:
-###[1] $ npm install
-###[2] $ bower install
-###[3] $ npm install jsonfile
-###[4] cd <nameProject>/client
-###[5] $ grunt serve
+clone this project and install: 
+ [1] $ npm install 
+ [2] $ bower install 
+ [3] $ npm install jsonfile 
+ [4] cd <nameProject>/client 
+ [5] $ grunt serve 
 
 ## Software Required
 
